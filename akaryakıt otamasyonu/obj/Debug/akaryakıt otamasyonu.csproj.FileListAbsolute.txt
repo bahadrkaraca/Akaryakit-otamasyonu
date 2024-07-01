@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\bin\Debug\akaryakıt otamasyonu.exe.config
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\bin\Debug\akaryakıt otamasyonu.exe
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\bin\Debug\akaryakıt otamasyonu.pdb
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt otamasyonu.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt otamasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt_otamasyonu.Form1.resources
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt_otamasyonu.Properties.Resources.resources
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt otamasyonu.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt otamasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt otamasyonu.exe
+C:\Users\hp\source\repos\akaryakıt otamasyonu\akaryakıt otamasyonu\obj\Debug\akaryakıt otamasyonu.pdb
